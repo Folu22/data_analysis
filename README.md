@@ -41,13 +41,11 @@ Run all cells to:
 2. Basic Data Analysis
 * Summary statistics for all features.
 * Mean values grouped by species.
-Example insights (e.g., Setosa has the smallest petals, Virginica the largest).
+-- Example insights (e.g., Setosa has the smallest petals, Virginica the largest).
 
 3. Data Visualization
 * Line Chart: Sepal length trend across dataset order.
 * Bar Chart: Average petal length per species.
 * Histogram: Distribution of sepal width.
 * Scatter Plot: Sepal length vs petal length colored by species.
-Virginica tends to have the largest measurements overall.
 
-Feature separation between species is most visible in petal measurements.
